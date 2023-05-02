@@ -1,0 +1,5 @@
+ofxGui
+ofxInkSim
+ofxKinect
+ofxMoodMachine
+ofxOpenCv
